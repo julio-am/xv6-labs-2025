@@ -12,4 +12,3 @@ main(int argc, char *argv[])
     pause(atoi(argv[1]));
     exit(0);
 }
-
